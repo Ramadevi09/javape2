@@ -1,6 +1,6 @@
 package com.stackroute.pe2;
 
-import com.stackroute.EmployeeDetails;
+/*import com.stackroute.EmployeeDetails;
 
 public class RetrivingDetails {
         public static String details(){
@@ -11,5 +11,5 @@ public class RetrivingDetails {
 
 
         }
-    }
+    }*/
 

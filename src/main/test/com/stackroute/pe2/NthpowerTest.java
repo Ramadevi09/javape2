@@ -10,12 +10,10 @@ public class NthpowerTest {
     Nthpower nthpower;
     @Before
     public  void setUp(){
-        System.out.println("Before");
         nthpower=new Nthpower();
     }
     @After
     public void tearDown(){
-        System.out.println("After");
         nthpower=null;
     }
     @Test
